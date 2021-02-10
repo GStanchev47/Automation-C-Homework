@@ -1,0 +1,13 @@
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.csprojAssemblyReference.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.AssemblyInfoInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.AssemblyInfo.cs
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.csproj.CoreCompileInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\bin\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.exe
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\bin\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.deps.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\bin\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.runtimeconfig.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\bin\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.runtimeconfig.dev.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\bin\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\bin\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 1 - Keywords, Variable\obj\Debug\netcoreapp3.1\Homework 1 - Keywords, Variable.genruntimeconfig.cache

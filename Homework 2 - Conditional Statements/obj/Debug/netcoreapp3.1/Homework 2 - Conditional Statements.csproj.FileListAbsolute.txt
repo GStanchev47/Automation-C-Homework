@@ -1,0 +1,13 @@
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\bin\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.exe
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\bin\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.deps.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\bin\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.runtimeconfig.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\bin\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.runtimeconfig.dev.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\bin\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\bin\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.AssemblyInfo.cs
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.genruntimeconfig.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 2 - Conditional Statements\obj\Debug\netcoreapp3.1\Homework 2 - Conditional Statements.csprojAssemblyReference.cache

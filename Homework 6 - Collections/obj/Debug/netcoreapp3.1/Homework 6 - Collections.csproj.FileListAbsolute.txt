@@ -1,0 +1,13 @@
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\bin\Debug\netcoreapp3.1\Homework 6 - Collections.exe
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\bin\Debug\netcoreapp3.1\Homework 6 - Collections.deps.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\bin\Debug\netcoreapp3.1\Homework 6 - Collections.runtimeconfig.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\bin\Debug\netcoreapp3.1\Homework 6 - Collections.runtimeconfig.dev.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\bin\Debug\netcoreapp3.1\Homework 6 - Collections.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\bin\Debug\netcoreapp3.1\Homework 6 - Collections.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.AssemblyInfoInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.AssemblyInfo.cs
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.csproj.CoreCompileInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.genruntimeconfig.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 6 - Collections\obj\Debug\netcoreapp3.1\Homework 6 - Collections.csprojAssemblyReference.cache

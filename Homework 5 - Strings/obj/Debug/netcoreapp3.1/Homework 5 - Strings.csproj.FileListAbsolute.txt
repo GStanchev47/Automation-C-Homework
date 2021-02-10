@@ -1,0 +1,13 @@
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\bin\Debug\netcoreapp3.1\Homework 5 - Strings.exe
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\bin\Debug\netcoreapp3.1\Homework 5 - Strings.deps.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\bin\Debug\netcoreapp3.1\Homework 5 - Strings.runtimeconfig.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\bin\Debug\netcoreapp3.1\Homework 5 - Strings.runtimeconfig.dev.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\bin\Debug\netcoreapp3.1\Homework 5 - Strings.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\bin\Debug\netcoreapp3.1\Homework 5 - Strings.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.AssemblyInfoInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.AssemblyInfo.cs
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.csproj.CoreCompileInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.genruntimeconfig.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 5 - Strings\obj\Debug\netcoreapp3.1\Homework 5 - Strings.csprojAssemblyReference.cache
