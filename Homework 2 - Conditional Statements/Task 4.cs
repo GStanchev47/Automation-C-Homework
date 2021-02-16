@@ -24,7 +24,7 @@ namespace Homework_2___Conditional_Statements
 				number = number * 100;
 			}
 
-			Console.WriteLine(number);
+			Console.WriteLine("The Result is: " + number);
 
 			if (IsPrime(number))
 			{

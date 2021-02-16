@@ -16,7 +16,7 @@ namespace Homework_4___Loops
 				result = result * i;
 			}
 
-			Console.WriteLine(result);
+			Console.WriteLine("The Factoriel is: " + result);
 			Console.WriteLine();
 			Console.WriteLine("______________________________");
 			Console.WriteLine();

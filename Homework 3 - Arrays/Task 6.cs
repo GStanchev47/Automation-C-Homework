@@ -12,7 +12,7 @@ namespace Homework_3___Arrays
 
 			Array.Sort(intArray);
 
-			Console.WriteLine(intArray[intArray.Length - 2]);
+			Console.WriteLine("The second largest number in the array is: " + intArray[intArray.Length - 2]);
 			Console.WriteLine();
 			Console.WriteLine("---------------------------------------");
 			Console.WriteLine();

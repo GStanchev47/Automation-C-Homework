@@ -1,0 +1,13 @@
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\bin\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.exe
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\bin\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.deps.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\bin\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.runtimeconfig.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\bin\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.runtimeconfig.dev.json
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\bin\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\bin\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.csprojAssemblyReference.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.AssemblyInfoInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.AssemblyInfo.cs
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.csproj.CoreCompileInputs.cache
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.dll
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.pdb
+C:\Users\Axl\source\repos\Homework 1 - Keywords, Variable\Homework 7 - Methods and Classes\obj\Debug\netcoreapp3.1\Homework 7 - Methods and Classes.genruntimeconfig.cache

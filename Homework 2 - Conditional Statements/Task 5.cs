@@ -36,7 +36,7 @@ namespace Homework_2___Conditional_Statements
 				evaluation = 2;
 			}
 
-			Console.WriteLine(evaluation);
+			Console.WriteLine("The Evaluation is: " + evaluation);
 		}
 	}
 }
